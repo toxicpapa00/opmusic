@@ -367,7 +367,7 @@ class Helper(object):
 **❍ /git ➠ ғɪηᴅ ʀєᴘᴏ ɢɪᴛ ᴜsєʀηᴧϻє
 ❍ /allrepo ➠ sєє ᴧʟʟ ʀєᴘᴏ ᴛʜʀσᴜɢʜ ɢɪᴛ ᴜsєʀηᴧϻє**
 
-`єxᴧϻᴘʟє : /git TOXICPAPA00`
+`єxᴧϻᴘʟє : /git TOXICPAPA`
 
 **❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
@@ -406,15 +406,15 @@ class Helper(object):
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [˹ᴄᴧηᴅʏ ꭙ ϻυѕɪᴄ˼](https://t.me/Candyy_music_robot) : ᴧʟɪᴠє 
+╭⎋ [˹˹ʀɪʏᴧ ꭙ ϻυѕɪᴄ˼](https://t.me/toxicxmusic_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [sᴧɴᴧᴛᴧηɪ ᴠɪʙє](https://t.me/Sanantinimusicbot) : ᴧʟɪᴠє 
+╭⎋ [˹ᴋɪᴛᴛυ ꭙ ϻυѕɪᴄ˼](https://t.me/kittuxmusicc_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [sᴧɴᴧᴛᴧηɪ ᴠɪʙє](https://t.me/Sanantinimusicbot) : ᴧʟɪᴠє 
+╭⎋ [˹ᴅᴊ ꭙ ϻυѕɪᴄ˼](https://t.me/djxbeat_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
