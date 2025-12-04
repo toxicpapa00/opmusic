@@ -3,7 +3,7 @@ import re
 import aiofiles
 import aiohttp
 from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont
-from youtubesearchpython.__future__ import VideosSearch
+from py_yt import VideosSearch
 from config import YOUTUBE_IMG_URL as FAILED
 
 # Constants
@@ -123,9 +123,9 @@ async def get_thumb(videoid: str) -> str:
         black_ic = Image.merge("RGBA", (r.point(lambda *_: 0), g.point(lambda *_: 0), b.point(lambda *_: 0), a))
         bg.paste(black_ic, (ICONS_X, ICONS_Y), black_ic)
 
-    # Add "KRITI BOTS" top-right (default font)
+    # Add " top-right (default font)
     font = ImageFont.truetype("SONALI_MUSIC/assets/font.ttf", 28)  # 
-    text = "BADNAM BOTS"
+    text = " "
     text_size = draw.textsize(text, font=font)
     draw.text((1280 - text_size[0] - 10, 10), text, fill="yellow", font=font)
     # Cleanup and save
