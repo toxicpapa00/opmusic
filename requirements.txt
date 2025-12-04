@@ -40,6 +40,7 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
+py_py_search
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.1
@@ -47,11 +48,8 @@ httpx
 gpytranslate
 openai==0.28.0
 pickledb
-python-telegram-bot
 pycryptodome
 opencv-python
-bing-image-urls
-bing_image_downloader
 git+https://github.com/TEAMPURVI/PurviAPI
 googlesearch-python
 sympy
