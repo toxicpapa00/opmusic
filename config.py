@@ -23,9 +23,9 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/toxicpapa00/opmusic"
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-API_URL = getenv("API_URL", 'https://music.xbitcode.com') #youtube song url
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.music.xbitcode.com')
-API_KEY = getenv("API_KEY", 'xbit_8HHTaoWfgIetEr55u4752ASJyaCVLUpN') # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
+API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+API_KEY = getenv("API_KEY", 'NxGBNexGenBots254c6b') # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
