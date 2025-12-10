@@ -9,6 +9,7 @@ from py_yt import VideosSearch
 from SONALI_MUSIC.utils.formatters import time_to_seconds
 import aiohttp
 from SONALI_MUSIC import LOGGER
+from typing import Union
 
 YOUR_API_URL = None
 FALLBACK_API_URL = "https://shrutibots.site"
