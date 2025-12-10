@@ -17,8 +17,8 @@ import yt_dlp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from py_yt import VideosSearch
-from AloneMusic.utils.database import is_on_off
-from AloneMusic.utils.formatters import time_to_seconds
+from SONALI_MUSIC.utils.database import is_on_off
+from SONALI_MUSIC.utils.formatters import time_to_seconds
 import glob
 import random
 import logging
