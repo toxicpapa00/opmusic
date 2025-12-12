@@ -541,7 +541,6 @@ class YouTubeAPI:
                     return None
                 finally:
                                         session.close()
-                
                 status = videoData.get('status')
 if status == 'success':
     video_url = videoData['video_url']
