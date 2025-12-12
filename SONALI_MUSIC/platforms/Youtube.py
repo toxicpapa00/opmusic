@@ -543,10 +543,9 @@ class YouTubeAPI:
                                         session.close()
                 
                 status = videoData.get('status')
-                if status == 'success':
-                    video_url = videoData['video_url']
-                    #video_url = base64.b64decode(videolink).decode() removed in 3.5.0
-                    
+if status == 'success':
+    video_url = videoData['video_url']
+    #video_url = base64.b64decode(videolink).decode() removed in 3.5.0
                     result = await download_with_ytdlp(video_url, filepath, headers)
                     if result:
                         return result
