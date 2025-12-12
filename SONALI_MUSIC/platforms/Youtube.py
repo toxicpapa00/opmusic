@@ -541,7 +541,7 @@ class YouTubeAPI:
                     return None
                 finally:
                                         session.close()
-                status = videoData.get('status')
+status = videoData.get('status')
 if status == 'success':
     video_url = videoData['video_url']
     #video_url = base64.b64decode(videolink).decode() removed in 3.5.0
