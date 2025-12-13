@@ -13,7 +13,7 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-from youtubesearchpython.__future__ import VideosSearch, CustomSearch
+from py_yt import VideosSearch
 import base64
 from SONALI_MUSIC import LOGGER
 from SONALI_MUSIC.utils.database import is_on_off
